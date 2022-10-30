@@ -1,0 +1,82 @@
+<svg class="poloto" width="800" height="500" viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
+	<style>
+.poloto{
+  stroke-linecap:round;
+  stroke-linejoin:round;
+  font-family:Roboto,sans-serif;
+  font-size:16px;
+}
+.poloto_background{fill:AliceBlue;}
+.poloto_scatter{stroke-width:7}
+.poloto_line{stroke-width:2}
+.poloto_text{fill: black;}
+.poloto_name{font-size:24px;dominant-baseline:start;text-anchor:middle;}
+.poloto_where{dominant-baseline:middle;text-anchor:start}
+.poloto_text.poloto_legend{font-size:20px;dominant-baseline:middle;text-anchor:start;}
+.poloto_text.poloto_ticks.poloto_y{dominant-baseline:middle;text-anchor:end}
+.poloto_text.poloto_ticks.poloto_x{dominant-baseline:start;text-anchor:middle}
+.poloto_imgs.poloto_ticks{stroke: black;stroke-width:3;fill:none;stroke-dasharray:none}
+.poloto_grid{stroke:gray;stroke-width:0.5}
+
+.poloto0.poloto_stroke{stroke:blue;}
+.poloto1.poloto_stroke{stroke:red;}
+.poloto2.poloto_stroke{stroke:green;}
+.poloto3.poloto_stroke{stroke:gold;}
+.poloto4.poloto_stroke{stroke:aqua;}
+.poloto5.poloto_stroke{stroke:lime;}
+.poloto6.poloto_stroke{stroke:orange;}
+.poloto7.poloto_stroke{stroke:chocolate;}
+.poloto0.poloto_fill{fill:blue;}
+.poloto1.poloto_fill{fill:red;}
+.poloto2.poloto_fill{fill:green;}
+.poloto3.poloto_fill{fill:gold;}
+.poloto4.poloto_fill{fill:aqua;}
+.poloto5.poloto_fill{fill:lime;}
+.poloto6.poloto_fill{fill:orange;}
+.poloto7.poloto_fill{fill:chocolate;}
+
+            .poloto_background{fill-opacity:0;}
+            .poloto0.poloto_histo.poloto_imgs{fill:#3B77BC;stroke:black;stroke-width:1px}
+            .poloto_grid{display:none}
+            .poloto0.poloto_stroke{stroke:#3B77BC}
+        
+	</style>
+	<circle r="1e5" class="poloto_background"/>
+	<g id="poloto_plot0" class="poloto_plot poloto_imgs poloto_line poloto0 poloto_stroke" fill="none" stroke="black">
+		<path d=" M 650.00 250.00 L 641.64 250.00 L 633.01 250.00 L 624.37 250.00 L 616.02 250.00 L 607.38 250.00 L 599.03 250.00 L 590.39 250.00 L 582.59 250.00 L 573.96 250.00 L 565.32 250.00 L 556.96 250.00 L 548.33 250.00 L 539.97 250.00 L 531.34 250.00 L 522.70 250.00 L 514.35 250.00 L 505.71 250.00 L 497.35 250.00 L 488.72 250.00 L 480.92 250.00 L 472.28 250.00 L 463.65 250.00 L 455.29 250.00 L 446.66 250.00 L 438.30 250.00 L 429.67 250.00 L 421.03 250.00 L 412.67 250.00 L 404.04 250.00 L 395.68 250.00 L 387.05 250.00 L 378.97 250.00 L 370.33 250.00 L 361.70 250.00 L 353.34 250.00 L 344.71 250.00 L 336.35 250.00 L 327.72 250.00 L 319.08 250.00 L 310.72 250.00 L 302.09 250.00 L 293.73 250.00 L 285.10 250.00 L 277.30 250.00 L 268.66 250.00 L 260.03 250.00 L 251.67 250.00 L 243.04 250.00 L 234.68 250.00 L 226.04 250.00 L 217.41 250.00 L 209.05 250.00 L 200.42 250.00 L 192.06 250.00 L 183.43 250.00 L 175.63 250.00 L 166.99 250.00 L 158.36 250.00 L 150.00 250.00"/>
+	</g>
+	<text class="poloto_text poloto_name poloto_title" x="400.00" y="37.50">Store Online Time</text>
+	<text class="poloto_text poloto_name poloto_x" x="400.00" y="481.25">Date</text>
+	<text class="poloto_text poloto_name poloto_y" x="37.50" y="250.00" transform="rotate(-90,37.50,250.00)">Stores</text>
+	<text class="poloto_text poloto_where poloto_x" x="440.00" y="70.00">¹2017-01-01 00:00:00 UTC in Years</text>
+	<g class="poloto_text poloto_ticks poloto_y">
+		<text x="135.00" y="400.00">-1.0</text>
+		<text x="135.00" y="325.00">-0.5</text>
+		<text x="135.00" y="250.00">0.0</text>
+		<text x="135.00" y="175.00">0.5</text>
+		<text x="135.00" y="100.00">1.0</text>
+	</g>
+	<g class="poloto_imgs poloto_ticks poloto_y">
+		<line x1="150.00" x2="144.00" y1="400.00" y2="400.00"/>
+		<line x1="150.00" x2="144.00" y1="325.00" y2="325.00"/>
+		<line x1="150.00" x2="144.00" y1="250.00" y2="250.00"/>
+		<line x1="150.00" x2="144.00" y1="175.00" y2="175.00"/>
+		<line x1="150.00" x2="144.00" y1="100.00" y2="100.00"/>
+	</g>
+	<g class="poloto_text poloto_ticks poloto_x">
+		<text x="166.99" y="430.00">2018¹</text>
+		<text x="268.66" y="430.00">2019</text>
+		<text x="370.33" y="430.00">2020</text>
+		<text x="472.28" y="430.00">2021</text>
+		<text x="573.96" y="430.00">2022</text>
+	</g>
+	<g class="poloto_imgs poloto_ticks poloto_x">
+		<line x1="166.99" x2="166.99" y1="400.00" y2="405.00"/>
+		<line x1="268.66" x2="268.66" y1="400.00" y2="405.00"/>
+		<line x1="370.33" x2="370.33" y1="400.00" y2="405.00"/>
+		<line x1="472.28" x2="472.28" y1="400.00" y2="405.00"/>
+		<line x1="573.96" x2="573.96" y1="400.00" y2="405.00"/>
+	</g>
+	<path class="poloto_imgs poloto_ticks poloto_x" d=" M 150.00 400.00 L 650.00 400.00"/>
+	<path class="poloto_imgs poloto_ticks poloto_y" style="stroke-dasharray:7.5;stroke-dashoffset:-0;" d=" M 150.00 400.00 L 150.00 100.00"/>
+</svg>
