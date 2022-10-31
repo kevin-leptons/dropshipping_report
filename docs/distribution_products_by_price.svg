@@ -43,15 +43,15 @@
 	</style>
 	<circle r="1e5" class="poloto_background"/>
 	<g id="poloto_plot0" class="poloto_plot poloto_imgs poloto_histo poloto0 poloto_fill">
-		<rect x="150.00" y="360.00" width="206.7223746570217" height="20"/>
+		<rect x="150.00" y="360.00" width="213.19365798414498" height="20"/>
 		<rect x="150.00" y="330.00" width="500" height="20"/>
-		<rect x="150.00" y="300.00" width="222.7176353205288" height="20"/>
-		<rect x="150.00" y="270.00" width="304.938887503118" height="20"/>
-		<rect x="150.00" y="240.00" width="130.33175355450237" height="20"/>
-		<rect x="150.00" y="210.00" width="106.85333000748318" height="20"/>
-		<rect x="150.00" y="180.00" width="100.77326016462956" height="20"/>
-		<rect x="150.00" y="150.00" width="159.20429034671986" height="20"/>
-		<rect x="150.00" y="120.00" width="14.40508855076078" height="20"/>
+		<rect x="150.00" y="300.00" width="216.8742921857305" height="20"/>
+		<rect x="150.00" y="270.00" width="227.3499433748584" height="20"/>
+		<rect x="150.00" y="240.00" width="94.28086070215176" height="20"/>
+		<rect x="150.00" y="210.00" width="68.94110985277462" height="20"/>
+		<rect x="150.00" y="180.00" width="38.64665911664778" height="20"/>
+		<rect x="150.00" y="150.00" width="31.285390713476772" height="20"/>
+		<rect x="150.00" y="120.00" width="1.274065685164203" height="20"/>
 	</g>
 	<text class="poloto_text poloto_name poloto_title" x="400.00" y="37.50">Products by Price</text>
 	<text class="poloto_text poloto_name poloto_x" x="400.00" y="481.25">Products</text>
@@ -80,22 +80,34 @@
 	</g>
 	<g class="poloto_text poloto_ticks poloto_x">
 		<text x="150.00" y="430.00">0</text>
-		<text x="305.90" y="430.00">5000</text>
-		<text x="461.80" y="430.00">10000</text>
-		<text x="617.70" y="430.00">15000</text>
+		<text x="220.78" y="430.00">500</text>
+		<text x="291.56" y="430.00">1000</text>
+		<text x="362.34" y="430.00">1500</text>
+		<text x="433.13" y="430.00">2000</text>
+		<text x="503.91" y="430.00">2500</text>
+		<text x="574.69" y="430.00">3000</text>
+		<text x="645.47" y="430.00">3500</text>
 	</g>
 	<g class="poloto_imgs poloto_ticks poloto_x">
 		<line x1="150.00" x2="150.00" y1="400.00" y2="405.00"/>
-		<line x1="305.90" x2="305.90" y1="400.00" y2="405.00"/>
-		<line x1="461.80" x2="461.80" y1="400.00" y2="405.00"/>
-		<line x1="617.70" x2="617.70" y1="400.00" y2="405.00"/>
+		<line x1="220.78" x2="220.78" y1="400.00" y2="405.00"/>
+		<line x1="291.56" x2="291.56" y1="400.00" y2="405.00"/>
+		<line x1="362.34" x2="362.34" y1="400.00" y2="405.00"/>
+		<line x1="433.13" x2="433.13" y1="400.00" y2="405.00"/>
+		<line x1="503.91" x2="503.91" y1="400.00" y2="405.00"/>
+		<line x1="574.69" x2="574.69" y1="400.00" y2="405.00"/>
+		<line x1="645.47" x2="645.47" y1="400.00" y2="405.00"/>
 	</g>
 	<g class="poloto_grid poloto_x">
 		<line x1="150.00" x2="150.00" y1="400.00" y2="100.00"/>
-		<line x1="305.90" x2="305.90" y1="400.00" y2="100.00"/>
-		<line x1="461.80" x2="461.80" y1="400.00" y2="100.00"/>
-		<line x1="617.70" x2="617.70" y1="400.00" y2="100.00"/>
+		<line x1="220.78" x2="220.78" y1="400.00" y2="100.00"/>
+		<line x1="291.56" x2="291.56" y1="400.00" y2="100.00"/>
+		<line x1="362.34" x2="362.34" y1="400.00" y2="100.00"/>
+		<line x1="433.13" x2="433.13" y1="400.00" y2="100.00"/>
+		<line x1="503.91" x2="503.91" y1="400.00" y2="100.00"/>
+		<line x1="574.69" x2="574.69" y1="400.00" y2="100.00"/>
+		<line x1="645.47" x2="645.47" y1="400.00" y2="100.00"/>
 	</g>
-	<path class="poloto_imgs poloto_ticks poloto_x" style="stroke-dasharray:7.7949613369917685;stroke-dashoffset:-0;" d=" M 150.00 400.00 L 650.00 400.00"/>
+	<path class="poloto_imgs poloto_ticks poloto_x" style="stroke-dasharray:7.078142695356739;stroke-dashoffset:-0;" d=" M 150.00 400.00 L 650.00 400.00"/>
 	<path class="poloto_imgs poloto_ticks poloto_y" d=" M 150.00 400.00 L 150.00 100.00"/>
 </svg>
